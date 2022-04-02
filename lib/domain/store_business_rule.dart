@@ -1,0 +1,1 @@
+/// Store business rule, seria posto e abstraido aqui!!
