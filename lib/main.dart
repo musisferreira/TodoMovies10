@@ -4,7 +4,7 @@ import 'package:hooks_riverpod/hooks_riverpod.dart';
 
 import 'package:todo_movies10/presentation/todo_movies_main.dart';
 
-/// testando todo o app...
+/// testando todo o app..., opa!
 void main() {
   runApp(const ProviderScope(child: MyApp()));
 }
